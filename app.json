@@ -28,12 +28,12 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "levanter_807326726dfa247dfbf2979a1040cdefa"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "❤️,cpx"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
@@ -96,7 +96,7 @@
     "REJECT_CALL": {
       "description": "auto reject call, if set as true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_STATUS_VIEW": {
       "description": "view others status",
